@@ -1,3 +1,3 @@
 # my-unblocked-games 
-git clone https://github.com/yourusername/my-unblocked-games.git
+git clone https://github.com/qman0817/my-unblocked-games.git
 cd my-unblocked-games
